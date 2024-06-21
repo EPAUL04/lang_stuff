@@ -6,7 +6,7 @@ https://www.loecsen.com/en#P1
 https://2seedsswahili.wordpress.com/
 
 Spanish ~
-Duolingo
+Duolingo \n
 Loecson - https://www.loecsen.com/en/learn-spanish#/en/Essentials
 Drops
 
