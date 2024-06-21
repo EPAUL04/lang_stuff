@@ -1,9 +1,13 @@
 # lang_stuff
 language learning
 
+
 Websites: 
+
 https://www.loecsen.com/en#P1
+
 https://2seedsswahili.wordpress.com/
+
 
 Spanish ~
 Duolingo
