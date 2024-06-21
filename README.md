@@ -7,7 +7,7 @@ https://www.loecsen.com/en#P1
 https://2seedsswahili.wordpress.com/
 
 
-    Spanish ~
+    Spanish
 
 Duolingo
 
@@ -16,14 +16,14 @@ Loecson - https://www.loecsen.com/en/learn-spanish#/en/Essentials
 Drops
 
 
-    Irish ~
+    Irish
 
 Duolingo
 
 Drops
 
 
-    Swahili ~
+    Swahili
 
 Duolingo
 
