@@ -1,35 +1,32 @@
 # lang_stuff
-language learning
-
-
 
 Websites: 
 
-https://www.loecsen.com/en#P1
+    https://www.loecsen.com/en#P1
 
-https://2seedsswahili.wordpress.com/
+    https://2seedsswahili.wordpress.com/
 
 
 Spanish ~
 
-Duolingo
+    Duolingo
 
-Loecson - https://www.loecsen.com/en/learn-spanish#/en/Essentials
+    Loecson - https://www.loecsen.com/en/learn-spanish#/en/Essentials
 
-Drops
+    Drops
 
 
 Irish ~
 
-Duolingo
+    Duolingo
 
-Drops
+    Drops
 
 
 Swahili ~
 
-Duolingo
+    Duolingo
 
-Drops
+    Drops
 
-Wordpress - https://2seedsswahili.wordpress.com/
+    Wordpress - https://2seedsswahili.wordpress.com/
